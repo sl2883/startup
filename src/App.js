@@ -45,7 +45,7 @@ class App extends Component {
           style={styles.button}
           underlayColor={'#0A84D0'}
         >
-          <Text style={styles.buttonText}>Rotate Logo</Text>
+          <Text style={styles.buttonText}>Sunny Logo</Text>
         </TouchableHighlight>
       </View>
     );
